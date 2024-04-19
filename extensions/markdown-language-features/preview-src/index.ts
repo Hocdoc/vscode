@@ -38,6 +38,9 @@ vscode.setState(state);
 const messaging = createPosterForVsCode(vscode, settings);
 
 window.cspAlerter.setPoster(messaging);
+
+// TEst
+// Huhu
 window.styleLoadingMonitor.setPoster(messaging);
 
 
